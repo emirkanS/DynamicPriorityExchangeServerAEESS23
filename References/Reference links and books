@@ -1,5 +1,10 @@
 References (changing):
 
-https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=f7a261dab428ac897deea4cb8d8b8cb10ebd27e1
-Hard Real Time Computing Systems by Butazzo
-...
+[1]: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=f7a261dab428ac897deea4cb8d8b8cb10ebd27e1
+     Hard Real Time Computing Systems by Butazzo
+
+[2]: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=f7a261dab428ac897deea4cb8d8b8cb10ebd27e1
+     Technical Report No. 2005-499, Scheduling Algorithms for Real-Time Systems, Arezou Mohammadi and Selim G. Akl
+
+[3]: Scheduling aperiodic tasks in dynamic priority systems, Marco Spuri and Giorgio C. Buttazzo
+
